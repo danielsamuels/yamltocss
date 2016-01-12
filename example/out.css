@@ -1,0 +1,12 @@
+.this_is_a_class {
+  color: blue; }
+
+  #this_is_an_id {
+    color: red;
+    top: -10px;
+    left: 10%; }
+    #this_is_an_id .another_one {
+      color: green; }
+      #this_is_an_id .another_one .something_else {
+        color: pink;
+        transform: translate(50%); }

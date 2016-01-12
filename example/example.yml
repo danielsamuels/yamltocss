@@ -1,0 +1,15 @@
+'#this_is_an_id':
+  color: red
+  left: 10%
+  top: -10px
+
+  .another_one:
+    color: green
+
+    .something_else:
+      color: pink
+      transform: translate(50%)
+
+
+.this_is_a_class:
+  color: blue

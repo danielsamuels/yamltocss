@@ -1,0 +1,19 @@
+
+.this_is_a_class {
+    color: blue;
+}
+
+#this_is_an_id {
+    color: red;
+    top: -10px;
+
+    .another_one {
+        color: green;
+
+        .something_else {
+            color: pink;
+            transform: translate(50%);
+        }
+    }
+    left: 10%;
+}
